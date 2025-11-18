@@ -76,7 +76,7 @@
         "rollup-plugin-license": "^3.5.2",
         "@types/semver": "^7.5.8",
         "@types/uuid": "^10.0.0",
-        "obsidian": "^1.7.2",
+        "obsidian": "^1.10.3",
         "rollup": "^4.24.0",
         "semver": "^7.6.3",
         "uuid": "^10.0.0",
