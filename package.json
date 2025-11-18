@@ -63,7 +63,7 @@
         "typescript-eslint": "^7.14.0",
         "@typescript-eslint/parser": "^7.16.0",
         "@typescript-eslint/eslint-plugin": "^7.16.0",
-        "@stylistic/eslint-plugin-js": "^2.3.0",
+        "@stylistic/eslint-plugin-js": "^4.4.1",
         "@stylistic/eslint-plugin-ts": "^2.3.0",
         "@stylistic/eslint-plugin-plus": "^2.3.0",
         "prettier": "^3.2.5",
