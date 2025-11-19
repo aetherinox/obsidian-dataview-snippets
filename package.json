@@ -60,7 +60,7 @@
     },
     "devDependencies": {
         "eslint-plugin-prettier": "^5.2.1",
-        "typescript-eslint": "^7.14.0",
+        "typescript-eslint": "^8.47.0",
         "@typescript-eslint/parser": "^7.16.0",
         "@typescript-eslint/eslint-plugin": "^7.16.0",
         "@stylistic/eslint-plugin-js": "^2.3.0",
